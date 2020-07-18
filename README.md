@@ -24,7 +24,7 @@ My name is Richiely Paiva and I'm a developer for about 6 years and I believe th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=richielybmp&show_icons=true">
   
 <!--
 **richielybmp/richielybmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
