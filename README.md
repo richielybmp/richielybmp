@@ -13,6 +13,19 @@ My name is Richiely Paiva and I'm a developer for about 6 years and I believe th
    - 💬 Ask me about C# and .NET, algorithms, web development in general, how to create a website from zero to space, how to choose a stack and create a path to be a specialist;
   - ⚡ Fun fact: Computer Science Degree and Full Stack Developer by Federal University of Goiás - Brazil. I love computing 💻 as I love 🍕 and 🍻, good music 🎧, traveling 🚀 🌄, movies 🎬, soccer ⚽ and video games 🎮.
   
+  **Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+
+  
 <!--
 **richielybmp/richielybmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
