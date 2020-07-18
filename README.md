@@ -4,10 +4,10 @@
 
 ### Hi there 👋
 
-My name is Richiely Paiva and I'm a developer for about 6 years and I believe that we can change the World, making it a better place with our knowledge. I strive each day to pursue my career focused on the goals of the engaged projects, always valuing code quality, teamwork and good communication. I also love to find and share new content to help my peers to be better devs.
+My name is Richiely Paiva and I'm a developer for about 6 years.
 
-  - 🔭 I’m currently working on web development focused in the whole Microsoft stack (.Net Framework and Core, MSSQL, Azure) at [LG lugar de gente](https://www.lg.com.br/);
-   - 🌱 I’m currently learning more about clean code, design patterns, improving my SQL skills and a little bit more about front-end development with React and some UX/UI tricks and tips;
+  - 🔭 I’m currently working on web development focused in the Microsoft stack (.Net Framework and Core, MSSQL, Azure) at [LG lugar de gente](https://www.lg.com.br/);
+   - 🌱 I’m currently learning more about Clean Code, Design Patterns, improving my SQL skills and a little bit more about front-end development with React and some UX/UI tricks and tips;
    - 👯 I’m looking to collaborate on the community in general and create new personal projects;
    - 🤔 I’m looking for help with any real life samples projects and how can we help other devs to apply the patterns and principles of how to write a better code;
    - 💬 Ask me about C# and .NET, algorithms, web development in general, how to create a website from zero to space, how to choose a stack and create a path to be a specialist;
