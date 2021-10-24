@@ -6,7 +6,7 @@
 
 My name is Richiely Paiva and I'm a developer for about 6 years.
 
-  - 🔭 I’m currently working on web development focused in the Microsoft stack (.Net Framework and Core, MSSQL, Azure) at [Auvo Tecnologia](https://www.auvo.com.br/);
+  - 🔭 I’m currently working on web development focused in the Microsoft stack (.Net Framework and Core, MSSQL, Azure) at [GFT Group](https://www.gft.com/);
    - 🌱 I’m currently learning more about Clean Code, Design Patterns, improving my SQL skills and a little bit more about front-end development with React and some UX/UI tricks and tips;
    - 👯 I’m looking to collaborate on the community in general and create new personal projects;
    - 🤔 I’m looking for help with any real life samples projects and how can we help other devs to apply the patterns and principles of how to write a better code;
