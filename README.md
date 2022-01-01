@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Richiely Paiva and I'm a developer for about 6 years.
+My name is Richiely Paiva and I'm a developer for about 8 years.
 
   - 🔭 I’m currently working on web development focused in the Microsoft stack (.Net Framework and Core, MSSQL, Azure) at [GFT Group](https://www.gft.com/);
    - 🌱 I’m currently learning more about Clean Code, Design Patterns, improving my SQL skills and a little bit more about front-end development with React and some UX/UI tricks and tips;
@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=richielybmp&repo=richielybmp&countColorcountColor)
